@@ -38,8 +38,8 @@ Winzard is a game app 2D platformer with learning media for students based on mo
 ## Team
 - ### Developer
   - Billy Andreanto
-  - Fery Eka Mahendra
-  - Luqman Al-Hakim (Me)
+  - Fery Eka Mahendra (Me)
+  - Luqman Al-Hakim
   - Rama Wahyudani
   - Robert Mahendra
 
